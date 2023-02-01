@@ -9,8 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from sklearn.model_selection import validation_curve
 
-df = pd.read_csv('C:/Users/matte/OneDrive/Desktop/Cleaned-Data2.csv')
-print(df)
+df = pd.read_csv('Cleaned-Data2.csv')
 
 X = df.drop(['Fever'], axis=1)
 y = df['Fever']
