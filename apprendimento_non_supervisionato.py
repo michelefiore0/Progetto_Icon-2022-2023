@@ -16,8 +16,7 @@ from yellowbrick.cluster import SilhouetteVisualizer
 from plotly.offline import init_notebook_mode ,iplot
 from sklearn.metrics import silhouette_score
 
-df=pd.read_csv("C:/Users/matte/OneDrive/Desktop/Cleaned-Data2.csv")
-print(df)
+df=pd.read_csv("Cleaned-Data2.csv")
 
 df.corr()
 print(df.corr())
