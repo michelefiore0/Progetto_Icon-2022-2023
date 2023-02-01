@@ -14,7 +14,7 @@ def main():
     try:
         dataframe = pd.read_csv("Cleaned-Data.csv")
         dataframe = cleaning_set(dataframe)
-        dataframe.to_csv('Cleaned-Data.csv', index=False)
+        dataframe.to_csv('Cleaned-Data2.csv', index=False)
         print(dataframe)
     except FileNotFoundError as e:
         print(e)
