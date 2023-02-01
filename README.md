@@ -24,14 +24,18 @@ Installare le dipendenze:
 
 # Esecuzione del codice
 Fase di preprocessing 
+
 <code> python preprocessing.py </code>
   
 Sistema esperto 
+
 <code>covid_expert.py</code>
   
 Apprendimento supervisionato
-<code>apprendimento_supervisionato.py
+
+<code>apprendimento_supervisionato.py</code>
 
 Apprendimento non supervisionato
+
 <code>apprendimento_non_supervisionato.py</code>
 
