@@ -12,12 +12,6 @@ Clonare il progetto
 
 <code>git clone https://github.com/michelefiore0/Progetto_Icon-2022-2023</code>
 
-Creare l'ambiente virtuale
-
-<code> cd Icon21-22 </code>
-
-<code> python -m venv Icon21-22 </code>
-
 Installare le dipendenze:
 
 <code>pip install -r requirements.txt</code>
