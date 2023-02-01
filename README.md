@@ -31,5 +31,5 @@ Apprendimento supervisionato
 
 Apprendimento non supervisionato
 
-<code>apprendimento_non_supervisionato.py</code>
+<code>apprendimento_non_supervisionato.py</code> 
 
