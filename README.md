@@ -1,9 +1,13 @@
 # Progetto_Icon-2022-2023
 Repository per il progetto dell'esame Ingegneria della Conoscenza inerente all'anno accademico 2022-2023.
 Realizzato da:
+
 Bisceglia Angelo 718939
+
 Brento Matteo
+
 Fiore Michele 718849
+
 
 # Esecuzione 
 ## Fase iniziale
