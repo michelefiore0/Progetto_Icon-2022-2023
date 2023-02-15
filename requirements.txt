@@ -5,7 +5,7 @@ collection == 0.1.6
 constraints == 0.95
 experta == 1.9.4
 fonttools == 4.38.0
-frozendict == 1.2
+frozendict == 1.2 
 inline == 0.0.1
 joblib == 1.2.0
 keras == 2.11.0
