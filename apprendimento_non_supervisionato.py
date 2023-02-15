@@ -18,7 +18,7 @@ from sklearn.metrics import silhouette_score
 
 df=pd.read_csv("Cleaned-Data2.csv")
 
-df.corr()
+df.corr() 
 print(df.corr())
 
 X = df.drop(['Fever'], axis=1)
