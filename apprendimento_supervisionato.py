@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
-from sklearn.model_selection import validation_curve
+from sklearn.model_selection import validation_curve  
 
 df = pd.read_csv('Cleaned-Data2.csv')
 
